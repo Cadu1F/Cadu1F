@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Estou fazendo o curso CS50 da Harvard.
+🌱 Estou fazendo o curso CS50 de Harvard.
 
 
 ## 🌐 Socials:
